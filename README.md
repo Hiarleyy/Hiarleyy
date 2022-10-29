@@ -12,6 +12,8 @@
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </div>        
+  
+  <img width='40px' src="https://discord.com/channels/898211932438405231/985622925380038736/1035960145093611601"/>
                   
           
 
