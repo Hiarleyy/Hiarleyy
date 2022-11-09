@@ -2,7 +2,6 @@
   
   <img height ='150px' src="https://user-images.githubusercontent.com/111695591/200836404-b8353b23-c4d9-4a1d-9c6c-272c8d4821d7.gif"/> 
   <a href="https://github.com/Hiarleyy">
-  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiarleyy&layout=compact&langs_count=7&theme=midnight-purple"/>
 
