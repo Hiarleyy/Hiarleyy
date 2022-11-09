@@ -1,20 +1,18 @@
-### Hi there 👋
-
-<div align="inline">
+## Olá 🙂👋
+  <div align="left">                   
+  <img width = '150px' src= "https://user-images.githubusercontent.com/111695591/200836404-b8353b23-c4d9-4a1d-9c6c-272c8d4821d7.gif"/>
+  </div>
   <a href="https://github.com/Hiarleyy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiarleyy&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
-  <div align="center">
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <div align="left">
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </div>        
+
+
+
  
-
-  <img width='40px' src="[https://discord.com/channels/898211932438405231/985622925380038736/1035960145093611601](https://discord.com/channels/1035960531913277560/1035960532559208501/1035960594697830460)"/>
-                  
-          
-
