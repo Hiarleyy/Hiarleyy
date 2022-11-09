@@ -3,9 +3,8 @@
   <a href="https://github.com/Hiarleyy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiarleyy&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img align "right" width = '150px' src= "https://user-images.githubusercontent.com/111695591/200836404-b8353b23-c4d9-4a1d-9c6c-272c8d4821d7.gif"/>
+  <img align "right" alt ='coding' width = '150px' src= "https://user-images.githubusercontent.com/111695591/200836404-b8353b23-c4d9-4a1d-9c6c-272c8d4821d7.gif"/>
   </div>
-    </div>
 
   <div align="left">
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
