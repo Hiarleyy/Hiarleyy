@@ -4,7 +4,7 @@
        <img align='right' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> 
   </div>
   <ul>
-  <li>🔭Atualmente trabalhando com simulações de Rede 5G Utilizando o simulador NS-3.</li>
+  <li>🔭Atualmente trabalhando com simulações de Rede 5G Utilizando o simulador NYUSIM.</li>
   <li>🔍Procuro colaborar em projetos web</li> 
   <li>📚Conhecimento nas Linguagens C++, Java e javascript.</li>
   <li>🌱Atualmente estudando sobre os principais frameworks de javascript.</li>
