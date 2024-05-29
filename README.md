@@ -3,7 +3,6 @@
     <div>
       <img align='inline' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs"/> 
       <img align ='inline' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiarleyy&layout=compact&theme=midnight-purple"/>
-      <img align='inline' width='120px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/5876f730-40dd-454c-a5df-080f5e41d591"/>
   </div>
 <h1>💻Tecnologias Utilizadas</h1>
   <div align='inline'>
@@ -21,3 +20,4 @@
  </a>
  <a href ="https://www.linkedin.com/in/marcos-hiarley/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/marcos-hiarley-1853a7226"/></a>
  </div>
+  <img align='right' width='100px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/5876f730-40dd-454c-a5df-080f5e41d591"/>
