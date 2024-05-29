@@ -6,12 +6,16 @@
   </div>
 <h1>💻Tecnologias Utilizadas</h1>
   <div align='inline'>
-  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
+  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
   <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/> 
   <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img width='90px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/9fc07607-3048-408d-bd53-5b222b72b196"/>
+  <img width='50px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/acbafe7a-8c16-4267-be71-578e4c296742"/>
+
+    
   </div>
     </div>
  <h1 align='left'>📱Contatos</h1>
