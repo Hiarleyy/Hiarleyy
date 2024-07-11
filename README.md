@@ -2,7 +2,6 @@
   
   <br>
     <div>
-      <img align='inline' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide=contribs"/> 
       <img align ='inline' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiarleyy&layout=compact&theme=midnight-purple"/>
         <img align='right' width="150"src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/5876f730-40dd-454c-a5df-080f5e41d591"/>
   </div>
