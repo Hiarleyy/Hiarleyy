@@ -15,7 +15,7 @@
   <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img width='90px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/9fc07607-3048-408d-bd53-5b222b72b196"/>
   <img width='50px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/acbafe7a-8c16-4267-be71-578e4c296742"/>
-  <img width='50px'src="https://github.com/user-attachments/assets/f4a217ba-2a11-4e03-ad11-60e4fb420c8a"/>
+  <img width='70px'src="https://github.com/user-attachments/assets/f4a217ba-2a11-4e03-ad11-60e4fb420c8a"/>
 
     
   </div>
