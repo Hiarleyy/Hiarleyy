@@ -15,6 +15,7 @@
   <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
   <img width='90px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/9fc07607-3048-408d-bd53-5b222b72b196"/>
   <img width='50px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/acbafe7a-8c16-4267-be71-578e4c296742"/>
+  <img width='50px'src="https://github.com/user-attachments/assets/f4a217ba-2a11-4e03-ad11-60e4fb420c8a"/>
 
     
   </div>
@@ -24,8 +25,7 @@
  <a href ="https://www.instagram.com/hiarley._/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
  </a>
  <a href ="https://www.linkedin.com/in/marcos-hiarley/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/marcos-hiarley-1853a7226"/></a>
- </div>
- <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiarleyy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiarleyy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
 </div>
 
