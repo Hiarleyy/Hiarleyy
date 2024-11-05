@@ -2,7 +2,7 @@
   
   <br>
     <div>
-  <img align ='inline' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/>    
+  <img align ='inline' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyo-night&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/>    
   <img width='350px'src="https://github.com/user-attachments/assets/fbd5626a-fd30-4cae-8e63-64f82c49dc19">  
   </div>
 <h2>💻Tech</h2>
