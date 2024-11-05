@@ -1,51 +1,33 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+  <h1 align='Center'>Hi, I am Marcos Hiarley👋</h1>
+  
+  <br>
+    <div>
+  <img align ='inline' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/>    
+  <img width='350px'src="https://github.com/user-attachments/assets/fbd5626a-fd30-4cae-8e63-64f82c49dc19">  
+  </div>
+<h2>💻Tecnologias Utilizadas</h2>
+  <div align='inline'>
+  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
+  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"/> 
+  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+  <img width='90px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/9fc07607-3048-408d-bd53-5b222b72b196"/>
+  <img width='50px'src="https://github.com/Hiarleyy/Hiarleyy/assets/111695591/acbafe7a-8c16-4267-be71-578e4c296742"/>
+  <img width='70px'src="https://github.com/user-attachments/assets/f4a217ba-2a11-4e03-ad11-60e4fb420c8a"/>
 
-###
+    
+  </div>
+    </div>
+ <h2 align='left'>📱Contatos</h2>
+ <a href ="mailto:marcoshiarley.silva@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href ="https://www.instagram.com/hiarley._/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+ </a>
+ <a href ="https://www.linkedin.com/in/marcos-hiarley/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/marcos-hiarley-1853a7226"/></a>
 
-<br clear="both">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiarleyy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
 
-<div align="inline">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Hiarleyy&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://github.com/user-attachments/assets/6f1c969b-7065-42be-ab5a-bfd2a43ff23d"  />
-
-###
-
-<div align="right">
-  <img padding='50px'src="https://github-readme-activity-graph.vercel.app/graph?username=Hiarleyy&radius=16&theme=react&area=true&order=5" height="250" alt="activity-graph graph"  />
-</div>
-
-###
