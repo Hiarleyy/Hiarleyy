@@ -2,7 +2,7 @@
   
   <br>
     <div>
-  <img align ='inline' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyo-night&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/>    
+  <img align ='inline' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/>    
   <img width='350px'src="https://github.com/user-attachments/assets/fbd5626a-fd30-4cae-8e63-64f82c49dc19">  
   </div>
 <h2>💻Tech</h2>
@@ -26,7 +26,7 @@
  </a>
  <a href ="https://www.linkedin.com/in/marcos-hiarley/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/marcos-hiarley-1853a7226"/></a>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiarleyy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiarleyy&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"/>
 
 </div>
 
