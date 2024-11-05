@@ -5,7 +5,7 @@
   <img align ='inline' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/>    
   <img width='350px'src="https://github.com/user-attachments/assets/fbd5626a-fd30-4cae-8e63-64f82c49dc19">  
   </div>
-<h2>💻Tecnologias Utilizadas</h2>
+<h2>💻Tech</h2>
   <div align='inline'>
   <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">  
   <img width='50px'src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
@@ -20,7 +20,7 @@
     
   </div>
     </div>
- <h2 align='left'>📱Contatos</h2>
+ <h2 align='left'>📱Contact</h2>
  <a href ="mailto:marcoshiarley.silva@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href ="https://www.instagram.com/hiarley._/"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
  </a>
