@@ -27,7 +27,6 @@
  <a href ="https://www.linkedin.com/in/marcos-hiarley/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/marcos-hiarley-1853a7226"/></a>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hiarleyy&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"/>
-
 </div>
 
 
