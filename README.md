@@ -1,6 +1,5 @@
   <h1 align='Center'>💻Hi, I am Marcos Hiarley!!💻</h1>
-  <h4 align = 'left'>Currently in the 9th semester of Computer Engineering, I hold a technical degree in Systems Development and have recently worked on two research projects (Machine Learning for Health Predictions and Wireless Transmissions in High Frequencies for 5G and 6G Networks), focusing on data analysis using Python and C++ as the main programming languages, along with data storage and querying using SQL. <h4/>
-  <br>
+<br>
     <div>
   <img align ='inline' src="https://github-readme-stats.vercel.app/api?username=Hiarleyy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/>    
   <img width='350px'src="https://github.com/user-attachments/assets/fbd5626a-fd30-4cae-8e63-64f82c49dc19">  
